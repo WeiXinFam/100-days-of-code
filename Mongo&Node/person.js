@@ -1,5 +1,5 @@
 // const person ={
-//     name:'John',
+//     name:'John', //properties of person object
 //     age: 28
 // }
 // module.exports=person; //to export const person variable  

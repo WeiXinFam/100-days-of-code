@@ -1,2 +1,5 @@
 node_modules/
 reference
+user.txt
+.ipynb_checkpoints
+__pycache__/
